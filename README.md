@@ -35,7 +35,10 @@ Developing a fun fight game using JEE, specifically Servlets and JSP, with JavaS
 - JDK 8 or higher
 - Apache Maven
 - An IDE like Eclipse or IntelliJ IDEA
-- 
+## Demo
+
+Watch the project demo on [YouTube](https://youtu.be/wqMFS30dMFI?si=w2MQcixHUSLMA5pf).
+
 ## Contact
 
 Abdelkarim Idrissi - [idrissiabdelkarim02.email@example.com](mailto:idrissiabdelkarim02.email@example.com)
