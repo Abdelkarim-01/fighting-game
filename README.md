@@ -30,35 +30,16 @@ Developing a fun fight game using JEE, specifically Servlets and JSP, with JavaS
 - **CSS**: For styling the game interface.
 
 ## Getting Started
-
 ### Prerequisites
 
 - JDK 8 or higher
 - Apache Maven
 - An IDE like Eclipse or IntelliJ IDEA
-
-## Demo
-
-Watch the project demo on [YouTube](https://youtu.be/wqMFS30dMFI?si=w2MQcixHUSLMA5pf).
-
-## Contributing
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
+- 
 ## Contact
 
-Your Name - [idrissiabdelkarim02.email@example.com](mailto:idrissiabdelkarim02.email@example.com)
+Abdelkarim Idrissi - [idrissiabdelkarim02.email@example.com](mailto:idrissiabdelkarim02.email@example.com)
 
 Project Link: [https://github.com/Abdelkarim-01/fighting-game]https://github.com/Abdelkarim-01/fighting-game)
-
-
 
 Feel free to reach out if you have any questions or suggestions! Happy coding!
